@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 3ecaba338c8d1724aaeb228e19c413a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8442854342008207545
+    second: Wall Writing_0
+  - first:
+      213: 986170692302865673
+    second: Wall Writing_1
+  - first:
+      213: 667892074405785790
+    second: Wall Writing_2
+  - first:
+      213: 4779174572319336449
+    second: Wall Writing_3
+  - first:
+      213: -6935397510190535725
+    second: Wall Writing_4
+  - first:
+      213: -578919713776064161
+    second: Wall Writing_5
+  - first:
+      213: 1072696526297643786
+    second: Wall Writing_6
+  - first:
+      213: 4585937602783810541
+    second: Wall Writing_7
+  - first:
+      213: 6834564506715616487
+    second: Wall Writing_8
+  - first:
+      213: -4743603091209133345
+    second: Wall Writing_9
+  - first:
+      213: 6370947742566325261
+    second: Wall Writing_10
+  - first:
+      213: -2214777909050673274
+    second: Wall Writing_11
+  - first:
+      213: 4311043771049476860
+    second: Wall Writing_12
+  - first:
+      213: 3147766228222721113
+    second: Wall Writing_13
+  - first:
+      213: -8524390534255850957
+    second: Wall Writing_14
+  - first:
+      213: 3509213492452449810
+    second: Wall Writing_15
+  - first:
+      213: -6532566158998112500
+    second: Wall Writing_16
+  - first:
+      213: 4848414388541908161
+    second: Wall Writing_17
+  - first:
+      213: -4812552953536148083
+    second: Wall Writing_18
+  - first:
+      213: -1079170271841669193
+    second: Wall Writing_19
+  - first:
+      213: -1929330808939750085
+    second: Wall Writing_20
+  - first:
+      213: -2542675274565929045
+    second: Wall Writing_21
+  - first:
+      213: -8802692842096931657
+    second: Wall Writing_22
+  - first:
+      213: 3230633098392138164
+    second: Wall Writing_23
+  - first:
+      213: -7476084865081905748
+    second: Wall Writing_24
+  - first:
+      213: 5653741371770046640
+    second: Wall Writing_25
+  - first:
+      213: 3935215043554426819
+    second: Wall Writing_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 45, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall Writing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb5d18b31bc9630800000000000000
+      internalID: 3935215043554426819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
