@@ -1,0 +1,34 @@
+TIME(s), FPS, ROOM SIZE, GENERATED ROOM, ARCHETYPE, GENERATION BIAS,PARENT,TREE LAYER
+1.006451,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,null,0
+1.006451,80,3.5x3.5,2x2 L Sample Room Variant(Clone),2x2 L Archetype ,20,1x1 Square Archetype ,1
+7.306243,80,3.5x3.5,1x3 Rectangle Sample Room Variant(Clone),1x3 Rectangle Archetype ,15,2x2 L Archetype ,2
+10.70591,80,3.5x3.5,2x2 Triangle Sample Room Variant(Clone),2x2 Triangle Archetype ,20,1x3 Rectangle Archetype ,3
+17.00624,80,3.5x3.5,2x2 Triangle Sample Room Variant(Clone),2x2 Triangle Archetype ,20,2x2 Triangle Archetype ,4
+21.00751,80,3.5x3.5,2x3 T Sample Room Variant(Clone),2x3 T Archetype ,25,1x3 Rectangle Archetype ,3
+23.41141,80,3.5x3.5,1x2 Rectangle Sample Room Variant(Clone),1x2 Rectangle Archetype ,10,2x3 T Archetype ,4
+26.90592,80,3.5x3.5,2x1 Rhombus Sample Room Variant(Clone),2x1 Rhombus Archetype ,10,1x2 Rectangle Archetype ,5
+29.80596,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,2x1 Rhombus Archetype ,6
+30.80636,80,3.5x3.5,1x2 Rectangle Sample Room Variant(Clone),1x2 Rectangle Archetype ,10,1x1 Square Archetype ,7
+32.60545,80,3.5x3.5,2x2 Triangle Sample Room Variant(Clone),2x2 Triangle Archetype ,20,1x2 Rectangle Archetype ,8
+36.2062,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,2x2 Triangle Archetype ,9
+63.70643,80,3.5x3.5,2x2 L Sample Room Variant(Clone),2x2 L Archetype ,20,1x1 Square Archetype ,1
+65.90582,80,3.5x3.5,1x3 Rectangle Sample Room Variant(Clone),1x3 Rectangle Archetype ,15,2x2 L Archetype ,2
+68.40541,80,3.5x3.5,2x3 Rectangle Sample Room Variant(Clone),2x3 Rectangle Archetype ,30,1x3 Rectangle Archetype ,3
+73.00666,80,3.5x3.5,1x3 Rectangle Sample Room Variant(Clone),1x3 Rectangle Archetype ,15,2x3 Rectangle Archetype ,4
+75.60545,80,3.5x3.5,3x2 L Sample Room Variant(Clone),3x2 L Archetype ,50,1x3 Rectangle Archetype ,5
+76.70657,80,3.5x3.5,2x1 Rhombus Sample Room Variant(Clone),2x1 Rhombus Archetype ,10,1x3 Rectangle Archetype ,5
+78.60563,80,3.5x3.5,2x2 Triangle Sample Room Variant(Clone),2x2 Triangle Archetype ,20,2x1 Rhombus Archetype ,6
+79.0056,80,3.5x3.5,2x1 Rhombus Sample Room Variant(Clone),2x1 Rhombus Archetype ,10,2x1 Rhombus Archetype ,6
+80.5053,80,3.5x3.5,2x3 T Sample Room Variant(Clone),2x3 T Archetype ,25,2x1 Rhombus Archetype ,7
+82.60505,80,3.5x3.5,2x1 Rhombus Sample Room Variant(Clone),2x1 Rhombus Archetype ,10,2x3 T Archetype ,8
+88.9062,80,3.5x3.5,1x2 Rectangle Sample Room Variant(Clone),1x2 Rectangle Archetype ,10,2x1 Rhombus Archetype ,9
+90.90688,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,1x2 Rectangle Archetype ,10
+92.90608,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,1x1 Square Archetype ,11
+94.00645,80,3.5x3.5,2x1 Rhombus Sample Room Variant(Clone),2x1 Rhombus Archetype ,10,1x1 Square Archetype ,12
+95.40618,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,2x1 Rhombus Archetype ,13
+96.50613,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,1x1 Square Archetype ,14
+97.50626,80,3.5x3.5,2x1 Rhombus Sample Room Variant(Clone),2x1 Rhombus Archetype ,10,1x1 Square Archetype ,15
+98.9054,80,3.5x3.5,2x2 Triangle Sample Room Variant(Clone),2x2 Triangle Archetype ,20,2x1 Rhombus Archetype ,16
+119.7063,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,1x2 Rectangle Archetype ,10
+142.6058,80,3.5x3.5,1x2 Rectangle Sample Room Variant(Clone),1x2 Rectangle Archetype ,10,1x1 Square Archetype ,11
+144.7063,80,3.5x3.5,2x2 Triangle Sample Room Variant(Clone),2x2 Triangle Archetype ,20,1x2 Rectangle Archetype ,12

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/General Assets/Scene/IntermediaryScene.unity
+    guid: 0759975ed8a486546bfedc5d1efa3993
+  - enabled: 0
+    path: Assets/Experiences/Claustrophobia/Scene/Claustrophobia.unity
+    guid: c17bcafb9341fad40a0e5a01a3f23891
+  - enabled: 1
+    path: Assets/Experiences/Spider Scene Assets/Scenes/Spiders 4x4.unity
+    guid: 2058b446f2a86ea43b3e32dedd1affce
+  - enabled: 0
+    path: Assets/Experiences/Heights Scene Assets/Scene/Acrophobia 4x4.unity
+    guid: 4882cfe2138091d4e86cc5bf1153763f
+  - enabled: 1
+    path: Assets/Experiences/Dark Scene Assets/Scene/Dark Scene 4x4.unity
+    guid: 8672e69d43c787f4b9bf96bb5522a5ad
+  - enabled: 1
+    path: Assets/Experiences/Phasmophobia/Scenes/Phasmophobia 3x3.unity
+    guid: 3bd75127a6bb7fc4eaecd5968b6907d1
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/Hub_SRP.unity
+    guid: e690eab0352f60642af53292000b9837
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/SDKDiscovery/SDKDiscovery.unity
+    guid: d45fe7d03f5903e45802ee75a10c3b95
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/Hub_VR.unity
+    guid: 282181e38ebf2d64e98ded67e2c52942
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/NeuroTagGallery/NeuroTagGallery.unity
+    guid: 76e97222f46066d4582712b6c95e99a3
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/Hub.unity
+    guid: be272fb300a5f3544b9889b8a052ba4e
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/SDKDiscovery/SDKDiscovery_SRP.unity
+    guid: 6239bc66bff2d364094b0609598c0c73
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/Calibration/Calibration.unity
+    guid: 7ca228870b8a84b409095067aeb1296f
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/Calibration/Calibration_VR.unity
+    guid: a280f6b773e0fe94cae0ed20d6eab244
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/SDKDiscovery/SDKDiscovery_VR.unity
+    guid: 8e71a1ff046200b468f6c7425bbbb159
+  - enabled: 0
+    path: Assets/NextMindSDK/Examples/Calibration/Calibration_SRP.unity
+    guid: 6cf2caff4021f00419d361f0b7ce213e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4a3b53fc0584dee41a9055965ddeda58,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: bac6361f0700fe543804fc531ba4324b,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bddd577f750177041871d607e07e588d,
+      type: 2}

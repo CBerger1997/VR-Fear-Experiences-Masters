@@ -1,0 +1,33 @@
+{
+    "name": "Player Input Actions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "0f29205b-9db7-4a9a-a5f3-f90ac186e839",
+            "actions": [
+                {
+                    "name": "Spawn Spider",
+                    "type": "Button",
+                    "id": "0f75775b-86cb-40a8-a5d1-c3ffefd47901",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3db02386-ddff-4d4e-bef4-d4db7744b502",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Spawn Spider",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

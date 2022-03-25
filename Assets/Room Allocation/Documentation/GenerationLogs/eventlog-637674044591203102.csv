@@ -1,0 +1,6 @@
+TIME(s), FPS, ROOM SIZE, GENERATED ROOM, ARCHETYPE, GENERATION BIAS,PARENT,TREE LAYER
+1.009331,80,3.5x3.5,1x1 Square Sample Room Variant(Clone),1x1 Square Archetype ,8,null,0
+1.009331,80,3.5x3.5,1x2 Rectangle Sample Room Variant(Clone),1x2 Rectangle Archetype ,10,1x1 Square Archetype ,1
+1.12,80,3.5x3.5,2x3 Rectangle Sample Room Variant(Clone),2x3 Rectangle Archetype ,30,1x1 Square Archetype ,1
+36.10861,80,3.5x3.5,1x2 Rectangle Sample Room Variant(Clone),1x2 Rectangle Archetype ,10,1x2 Rectangle Archetype ,2
+42.71014,80,3.5x3.5,1x3 Rectangle Sample Room Variant(Clone),1x3 Rectangle Archetype ,15,1x2 Rectangle Archetype ,2
