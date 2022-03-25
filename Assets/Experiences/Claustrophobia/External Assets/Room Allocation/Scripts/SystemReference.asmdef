@@ -1,0 +1,19 @@
+{
+    "name": "Unity.RoomAllocation",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.vr",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}
